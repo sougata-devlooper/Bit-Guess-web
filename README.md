@@ -22,7 +22,7 @@ A bold, interactive, and visually striking number guessing game built with a mod
   <img src="./interface/materials/ss4_2.png" alt="Screenshot 8" width="350"/>
 </p>
 
-👉 **[Try out by your own](https://number-guessing-application-one.vercel.app/)**
+👉 **[Try out by your own](https://bit-guess-web.vercel.app/)**
 
 ---
 
